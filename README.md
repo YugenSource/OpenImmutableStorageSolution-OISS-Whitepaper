@@ -1,4 +1,4 @@
-# The Open-Immutable-Storage-Solution-Standard LayerOne (OISS-STD-L1) Whitepaper: A New Standard For Immutable, Permanent Storage Of Data on Blockchains Without Requiring Any Finances
+# The Open-Immutable-Storage-Solution-Standard LayerOne (OISS-STD) Whitepaper: A New Standard For Immutable, Permanent Storage Of Data on Blockchains Without Requiring Any Finances
 
 ## Abstract
 
