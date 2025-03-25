@@ -14,7 +14,11 @@ OISS is an open standard for designing blockchains that hold data.
 
 ## 2. Standard OISS
 
+The Standard OISS is a standardized immutable way of sharing data easily in pieces through a blockchain-like structure where time is measured using PoH and where consensus is maintained using raft.
+
 We introduce the standard **OISS**, the standard method of storing data using the following parameters:
+
+### Parameters
 
 * **Number of Blockchains Per Solution / Byte-Size:** u8 | 256 (00-FF)
 
@@ -29,4 +33,6 @@ We introduce the standard **OISS**, the standard method of storing data using th
 * **Blob Size:** 256kb (encoded in Base64)
 
 * **Mini-Blob Size:** 16kb (encoded in Base58)
+
+* **Padding:** Zeroes
 
